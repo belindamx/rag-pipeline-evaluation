@@ -31,7 +31,6 @@ Results for the selected configuration on all 75 validation questions:
 
 - [Notebook](rag_evaluation.ipynb)
 - [Report](rag_evaluation_report.pdf)
-- [Editable report](rag_evaluation_report.pages)
 - [Evaluation data](data/README.md)
 - [Saved results](results/README.md)
 - [Dependencies](requirements.txt)

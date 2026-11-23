@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 .env
 .env.*
+rag_evaluation_report.pages
