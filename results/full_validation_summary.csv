@@ -1,0 +1,3 @@
+Model,Team,Avg cos similarity,Avg ROUGE-L F1
+Cohere,Engineering,0.818888,0.136126
+Cohere,Marketing,0.813214,0.199620

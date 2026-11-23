@@ -1,0 +1,11 @@
+Model,Team,Avg cos similarity,Avg ROUGE-L F1,Configuration
+Cohere,Engineering,0.792634,0.138782,"Baseline: 128 characters, k=4"
+Mistral,Engineering,0.781594,0.165601,"Baseline: 128 characters, k=4"
+Cohere,Marketing,0.804095,0.226675,"Baseline: 128 characters, k=4"
+Mistral,Marketing,0.806592,0.224068,"Baseline: 128 characters, k=4"
+Cohere,Engineering,0.800110,0.138352,"Experiment 1: 1000 characters, k=4"
+Cohere,Marketing,0.810163,0.200146,"Experiment 1: 1000 characters, k=4"
+Cohere,Engineering,0.787757,0.135123,"Experiment 2: 1000 characters, k=8"
+Cohere,Marketing,0.775020,0.182078,"Experiment 2: 1000 characters, k=8"
+Cohere,Engineering,0.795208,0.181813,"Experiment 3: 1000 characters, k=4, revised pr..."
+Cohere,Marketing,0.791934,0.179975,"Experiment 3: 1000 characters, k=4, revised pr..."

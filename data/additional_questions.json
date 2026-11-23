@@ -1,0 +1,92 @@
+{
+  "10": {
+    "question": "Which method incorporates relative position information by rotating the affine-transformed word embedding vector according to its position index, as described in the context of rotary position embedding?"
+  },
+  "12": {
+    "question": "How are annotators instructed to determine which portions of a paper should be used to justify answers in the QASPER annotation process, and what considerations are involved when selecting evidence?"
+  },
+  "17": {
+    "question": "How does LoRA manage to minimize inference time overhead, and what is the role of its low-rank update structure in enabling efficient parameter adaptation compared to traditional adapter-based methods?"
+  },
+  "24": {
+    "question": "How is reward modeling applied to GPT-3 models to improve alignment with human preferences, and what are the key strategies used to collect and train on human comparison data for this technique?"
+  },
+  "37": {
+    "question": "How does InstructGPT 175B respond differently from GPT-3 175B when given a prompt in Swedish, particularly regarding the use of language and adherence to instructions?"
+  },
+  "46": {
+    "question": "How does retrieval augmentation enhance the capabilities of multimodal Transformer-based models in generating both text and images, and what architectural components are necessary to support handling sequences of multiple data types?"
+  },
+  "53": {
+    "question": "How does the use of QLoRA with different quantization schemes impact the performance of LLaMA models across various dataset types and model sizes, particularly when evaluated on a comprehensive language understanding benchmark?"
+  },
+  "56": {
+    "question": "How does the quantization process in large language models impact their ability to preserve model quality compared to alternative techniques, and what are some challenges or trade-offs associated with quantization methods such as SmoothQuant and LLM.int8()?"
+  },
+  "59": {
+    "question": "What is the name of the algorithm that optimizes language models from human preferences using a simple binary cross-entropy objective, avoiding explicit reward modeling or reinforcement learning, and is compared to PPO-based RLHF in effectiveness?"
+  },
+  "61": {
+    "question": "Which author derived the DPO objective, proved its theoretical properties, and contributed to the PPO and reward learning baselines?"
+  },
+  "65": {
+    "question": "How does the DPO approach address user requests that involve privacy concerns or potentially illegal activities, and how does this compare to responses that provide only background information about the subject?"
+  },
+  "78": {
+    "question": "How do annotation scores for informativeness, clarity, and readability vary depending on different types of questions?"
+  },
+  "86": {
+    "question": "Which inference-time algorithm causes a large drop in PopQA and ASQA performance by always retrieving and using the top one document only, similar to standard RAG approaches?"
+  },
+  "114": {
+    "question": "How does the performance of models trained with KTO compare to those aligned using SFT, DPO, and ORPO across different evaluation datasets, and what do the results suggest about the impact of different KTO variants and settings?"
+  },
+  "117": {
+    "question": "Which model for multi-hop question answering emulates mammalian brain knowledge storage with KG triples and employs a personalized PageRank algorithm for retrieval?"
+  },
+  "120": {
+    "question": "How do retrieval-augmented generation methods enhance question answering capabilities in contexts where both structured data, such as knowledge graphs or tables, and unstructured text are involved?"
+  },
+  "121": {
+    "question": "Which benchmark provides 4,409 question-answer pairs, mock APIs to simulate web and Knowledge Graph search, and was the basis for a KDD Cup 2024 challenge?"
+  },
+  "158": {
+    "question": "What is the definition of beamforming steering matrix and what key goal does it serve in relation to transmit antennas and signal-to-noise ratio (SNR)?"
+  },
+  "164": {
+    "question": "Which framework remains limited by the lack of iterative feedback or dynamic retrieval, and is described as having issues with retrieval adequacy, reasoning depth, and system adaptability?"
+  },
+  "166": {
+    "question": "Which approach in code generation tasks retrieves code documentation via OSCAT libraries to ensure syntactic accuracy and executable logic?"
+  },
+  "169": {
+    "question": "How does retrieval-augmented generation leverage external information sources to enhance the reasoning abilities of large language models during complex question answering tasks?"
+  },
+  "173": {
+    "question": "What are some of the unique retrieval and reasoning challenges that RAG-based systems encounter when applied to web-based tasks requiring agentic planning and dynamic tool use?"
+  },
+  "185": {
+    "question": "How can answer extraction models be jointly trained with retrieval models, and what are the benefits of end-to-end approaches?"
+  },
+  "187": {
+    "question": "In what ways can large pretrained language models be used for closed-book question answering?"
+  },
+  "197": {
+    "question": "What is the significance of the key, value, and query concepts in transformer models?"
+  },
+  "205": {
+    "question": "What are the main limitations or challenges faced by large language model-powered autonomous agents when executing real-world tasks?"
+  },
+  "212": {
+    "question": "What are some common causes leading to unfaithful or fabricated outputs in large language models?"
+  },
+  "214": {
+    "question": "Which types of evaluation metrics or benchmarks are used to assess factuality in language model outputs?"
+  },
+  "216": {
+    "question": "How do different sampling strategies during text generation impact factual accuracy and hallucination rates?"
+  },
+  "225": {
+    "question": "What actor plays the role of Thanos in the Marvel Universe and the role of Cable in Deadpool 2?"
+  }
+}
